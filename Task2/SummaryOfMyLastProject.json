@@ -1,0 +1,16 @@
+{
+  "Title": "Migrating Valiator to GPS system",
+  "Description": "Building a new Asp.net core Web Api project which approves or declines transactions when a customer makes transactions using CaxtonFx Master Cards and integrating to current system. Also migrating the current Valiator Api to new Api.",
+  "TechStack": [
+    "C#",
+    ".Net Core",
+    "Asp.net core Web Api",
+    "SQL Server",
+    "Azure Services"
+  ],
+  "DevTools": [
+    "Visual Studio 2019",
+    "SQL Server Management Studio",
+    "Service Bus Explorer"
+  ]
+}
